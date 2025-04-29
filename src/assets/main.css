@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.ranking-chart input[type='radio'] {
+    margin-right: 6px;
+  }
+  .ranking-chart label {
+    font-weight: 500;
+    cursor: pointer;
+  }
